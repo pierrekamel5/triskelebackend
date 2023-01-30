@@ -1,0 +1,25 @@
+[
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "MeasureId": "10",
+        "VisualName1": "Left Line Card",
+        "VisualType1": "Activity",
+        "QtyDescrptr_Qty_UnitIdArray": [
+            {
+                "QtyDescrptr": "Qty",
+                "Qty": "25",
+                "UnitId": "6"
+            }
+        ],
+        "ActnPhrase": "Restored by",
+        "ClinicianId": "1",
+        "Clinician": "You",
+        "VisualName2": "Caption 2",
+        "VisualType2": "Black",
+        "VisualFnctn2": "Unclickable",
+        "RcmndtnOccurncId": "21",
+        "RcmndtnOccurncDate": "'05/12/2022"
+    }
+]

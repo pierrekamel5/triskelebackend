@@ -1,0 +1,59 @@
+[
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "MeasureId": "10",
+        "VisualName1": "Left Line Card",
+        "VisualType1": "Activity",
+        "QtyDescrptr_Qty_UnitIdArray": [
+            {
+                "PrcsParmtrValueOne": "Steps",
+                "QtyDescrptr":"Qty",
+                "Qty":"25",
+                "UnitId":"6",
+                "DayofWeekFreqcy": "SUN, MON, FRI"
+            },
+            {
+                "PrcsParmtrValueOne": "Walking",
+                "QtyDescrptr":"Qty",
+                "Qty":"100",
+                "UnitId":"7",
+                "DayofWeekFreqcy": "SUN, MON, TUE, WED, THU, FRI, SAT"
+            }
+        ],
+        "ActnPhrase": "Set by",
+        "ClinicianId": "1",
+        "Clinician": "You",
+        "VisualName2": "Caption 2",
+        "VisualType2": "Black",
+        "VisualFnctn2": "Unclickable",
+        "RcmndtnOccurncId": "20",
+        "RcmndtnOccurncDate": "'05/11/2022"
+    },
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "MeasureId": "10",
+        "VisualName1": "Left Line Card",
+        "VisualType1": "Activity",
+        "QtyDescrptr_Qty_UnitIdArray": [
+            {
+                "PrcsParmtrValueOne": "Steps",
+                "QtyDescrptr":"Qty",
+                "Qty":"25",
+                "UnitId":"6",
+                "DayofWeekFreqcy": "SUN, MON, TUE, WED, THU, FRI, SAT"
+            }
+        ],
+        "ActnPhrase": "Set by",
+        "ClinicianId": "1",
+        "Clinician": "You",
+        "VisualName2": "Caption 2",
+        "VisualType2": "Black",
+        "VisualFnctn2": "Unclickable",
+        "RcmndtnOccurncId": "20",
+        "RcmndtnOccurncDate": "'05/13/2022"
+    }
+]

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script>
+    function afterRegister(username, access_token) {
+      var result = {
+        status: "success",
+        user: { username: username, access_token: access_token },
+      };
+      window.parent.postMessage(JSON.stringify(result), "*");
+    }
+
+    function createUser() {
+      const url = "http://localhost:8080/clinician/register";
+      fetch(url, {
+        method: "POST",
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          firstName:document.getElementById("firstName").value,
+          lastName:document.getElementById("lastName").value,
+          email:document.getElementById("email").value,
+          password:document.getElementById("password").value,
+          speciality:document.getElementById("speciality").value,
+          licenseNumber:document.getElementById("licenseNumber").value,
+        }),
+      }).then(
+          response => response.json() 
+      ).then(data=>{
+          afterRegister(data.username, data.access_token);
+      });
+    }
+  </script>
+</head>
+
+<body>
+  <div>
+    <label>First Name</label>
+    <input type="text" name="firstName" id="firstName" />
+  </div>
+  <div>
+    <label>Last Name</label>
+    <input type="text" name="lastName" id="lastName" />
+  </div>
+  <div>
+    <label>Email</label>
+    <input type="text" name="email" id="email" />
+  </div>
+  <div>
+    <label>Password</label>
+    <input type="password" name="password" id="password" />
+  </div>
+  <div>
+    <label>Speciality</label>
+    <input type="text" name="speciality" id="speciality" />
+  </div>
+  <div>
+    <label>License Number</label>
+    <input type="text" name="license" id="license" />
+  </div>
+  <div>
+    <button onclick="createUser();">Register</button>
+  </div>
+</body>
+
+</html>

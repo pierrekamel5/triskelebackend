@@ -1,0 +1,79 @@
+[
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "Date": "2022-10-02 00:00:00.000",
+        "Day": "2.0",
+        "Month": "OCT",
+        "DayofWeek": "SUN",
+        "VisualName1": "Week Selector",
+        "VisualType1": "Past"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "Date": "2022-10-03 00:00:00.000",
+        "Day": "3.0",
+        "Month": "OCT",
+        "DayofWeek": "MON",
+        "VisualName1": "Week Selector",
+        "VisualType1": "Past"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "Date": "2022-10-04 00:00:00.000",
+        "Day": "4.0",
+        "Month": "OCT",
+        "DayofWeek": "TUE",
+        "VisualName1": "Week Selector",
+        "VisualType1": "Past"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "Date": "2022-10-05 00:00:00.000",
+        "Day": "5.0",
+        "Month": "OCT",
+        "DayofWeek": "WED",
+        "VisualName1": "Week Selector",
+        "VisualType1": "Past"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "Date": "2022-10-06 00:00:00.000",
+        "Day": "6.0",
+        "Month": "OCT",
+        "DayofWeek": "THU",
+        "VisualName1": "Week Selector",
+        "VisualType1": "Past"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "Date": "2022-10-07 00:00:00.000",
+        "Day": "7.0",
+        "Month": "OCT",
+        "DayofWeek": "FRI",
+        "VisualName1": "Week Selector",
+        "VisualType1": "Past"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "Date": "2022-10-08 00:00:00.000",
+        "Day": "8.0",
+        "Month": "OCT",
+        "DayofWeek": "SAT",
+        "VisualName1": "Week Selector",
+        "VisualType1": "Past"
+    }
+]

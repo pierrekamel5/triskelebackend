@@ -1,0 +1,23 @@
+[
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "AppFeatureName": "Dashboard",
+        "AppFeatureSortOrdr": "1"
+    },
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "AppFeatureName": "Recommendations",
+        "AppFeatureSortOrdr": "2"
+    },
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "AppFeatureName": "Analytics",
+        "AppFeatureSortOrdr": "3"
+    }
+]

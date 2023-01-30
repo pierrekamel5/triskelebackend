@@ -1,0 +1,20 @@
+[
+    {
+        "PrcsParmtrName":"No Data",
+        "PrcsParmtrValueOne":"Empty State",
+        "PrcsParmtrX":"",
+        "MeasureId":"",
+        "VisualName1":"",
+        "VisualType1":"",
+        "QtyDescrptr_Qty_UnitIdArray":[],
+        "DayofWeekFreqcy":"",
+        "StartDate":"",
+        "EndDate":"",
+        "ClinicianId":"",
+        "Clinician":"",
+        "VisualName2": "",
+        "VisualType2": "",
+        "VisualFnctn2":"",
+        "RcmndtnSeriesId": ""
+    }
+]

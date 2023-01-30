@@ -1,0 +1,46 @@
+[
+    {
+        "PrcsParmtrName":"",
+        "PrcsParmtrValueOne":"",
+        "PrcsParmtrX":"",
+        "MeasureCtgyId":"1",
+        "MeasureIcon":"url(cyclingicon)",
+        "VisualName1":"Measure Icon",
+        "VisualType1":"Activity",
+        "MeasureName":"Cycling",
+        "MeasureSortOrdr":"30",
+        "MeasureId":"30",
+        "UnitIdArray":[
+            {
+                "id":"10",
+                "SortOrder":"1"
+            },
+                        {
+                "id":"11",
+                "SortOrder":"2"
+            },
+                        {
+                "id":"12",
+                "SortOrder":"3"
+            }
+        ]
+    },
+    {
+        "PrcsParmtrName":"",
+        "PrcsParmtrValueOne":"",
+        "PrcsParmtrX":"",
+        "MeasureCtgyId":"2",
+        "MeasureIcon":"url(caloriesicon)",
+        "VisualName1":"Measure Icon",
+        "VisualType1":"Nutrition",
+        "MeasureName":"Calories",
+        "MeasureSortOrdr":"1",
+        "MeasureId":"1",
+        "UnitIdArray":[
+            {
+                "id":"13",
+                "SortOrder":"1"
+            }
+        ]
+    }
+]

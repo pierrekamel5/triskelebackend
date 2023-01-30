@@ -1,0 +1,21 @@
+[
+    {
+        "PrcsParmtrName": "Error",
+        "PrcsParmtrValueOne": "Maintenance",
+        "PrcsParmtrX": "",
+        "RcmndtnSeriesId": "",
+        "QtyDescrptr_Qty_UnitIdArray": [],
+        "DayofWeekFreqcy": "",
+        "StartDate": "",
+        "EndDate": "",
+        "ActnPhrase": "",
+        "ClinicianId": "",
+        "Clinician": "",
+        "VisualName1": "",
+        "VisualType1": "",
+        "VisualFnctn1":"",
+        "ChangedOccurncArray": [],
+        "VisualName2": "",
+        "VisualType2": ""
+    }
+]

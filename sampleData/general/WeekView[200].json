@@ -1,0 +1,79 @@
+[
+    {
+      "PrcsParmtrName": "",
+      "PrcsParmtrValueOne": "",
+      "PrcsParmtrX": "",
+      "Date": "05/15/2022",
+      "Day": 15,
+      "Month": "May",
+      "DayofWeek": "SUN",
+      "VisualName1": "Week Selector",
+      "VisualType1": "Past"
+    },
+    {
+      "PrcsParmtrName": "",
+      "PrcsParmtrValueOne": "",
+      "PrcsParmtrX": "",
+      "Date": "05/16/2022",
+      "Day": 16,
+      "Month": "May",
+      "DayofWeek": "MON",
+      "VisualName1": "Week Selector",
+      "VisualType1": "Past"
+    },
+    {
+      "PrcsParmtrName": "",
+      "PrcsParmtrValueOne": "",
+      "PrcsParmtrX": "",
+      "Date": "05/17/2022",
+      "Day": 17,
+      "Month": "May",
+      "DayofWeek": "TUE",
+      "VisualName1": "Week Selector",
+      "VisualType1": "Past"
+    },
+    {
+      "PrcsParmtrName": "",
+      "PrcsParmtrValueOne": "",
+      "PrcsParmtrX": "",
+      "Date": "05/18/2022",
+      "Day": 18,
+      "Month": "May",
+      "DayofWeek": "WED",
+      "VisualName1": "Week Selector",
+      "VisualType1": "Today"
+    },
+    {
+      "PrcsParmtrName": "",
+      "PrcsParmtrValueOne": "",
+      "PrcsParmtrX": "",
+      "Date": "05/19/2022",
+      "Day": 19,
+      "Month": "May",
+      "DayofWeek": "THU",
+      "VisualName1": "Week Selector",
+      "VisualType1": "Future"
+    },
+    {
+      "PrcsParmtrName": "",
+      "PrcsParmtrValueOne": "",
+      "PrcsParmtrX": "",
+      "Date": "05/20/2022",
+      "Day": 20,
+      "Month": "May",
+      "DayofWeek": "FRI",
+      "VisualName1": "Week Selector",
+      "VisualType1": "Future"
+    },
+    {
+      "PrcsParmtrName": "",
+      "PrcsParmtrValueOne": "",
+      "PrcsParmtrX": "",
+      "Date": "05/21/2022",
+      "Day": 21,
+      "Month": "May",
+      "DayofWeek": "SAT",
+      "VisualName1": "Week Selector",
+      "VisualType1": "Future"
+    }
+  ]

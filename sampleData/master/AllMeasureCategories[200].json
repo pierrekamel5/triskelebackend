@@ -1,0 +1,18 @@
+[
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "MeasureCtgyId": "1",
+        "MeasureCtgyName": "Activity",
+        "MeasureCtgySortOrdr": "1"
+    },
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "MeasureCtgyId": "2",
+        "MeasureCtgyName": "Nutrition",
+        "MeasureCtgySortOrdr": "2"
+    }
+]

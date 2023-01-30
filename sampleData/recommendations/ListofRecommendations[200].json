@@ -1,0 +1,31 @@
+[
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "MeasureId": "10",
+        "VisualName1": "Filled Card",
+        "VisualType1": "Physiologic",
+        "QtyDescrptr_Qty_UnitIdArray": [
+            {
+                "QtyDescrptr":"LowQty",
+                "Qty":"60",
+                "UnitId":"5"
+            },
+            {
+                "QtyDescrptr":"HighQty",
+                "Qty":"180",
+                "UnitId":"5"
+            }
+        ],
+        "DayofWeekFreqcy": "SUN, MON, TUE, WED, THU, FRI, SAT",
+        "StartDate": "'05/03/2022",
+        "EndDate": "'05/10/2022",
+        "ClinicianId": "2",
+        "Clinician": "You",
+        "VisualName2": "Caption 2",
+        "VisualType2": "Black",
+        "VisualFnctn2":"Unclickable",
+        "RcmndtnSeriesId": "20"
+    }
+]

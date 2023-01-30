@@ -1,0 +1,43 @@
+[
+    {
+        "PrcsParmtrName": "",
+        "PrcsParmtrValueOne": "",
+        "PrcsParmtrX": "",
+        "RcmndtnSeriesId": "10",
+        "QtyDescrptr_Qty_UnitIdArray": [
+            {
+                "QtyDescrptr":"Qty",
+                "Qty":"25",
+                "UnitId":"6"
+            }
+        ],
+        "DayofWeekFreqcy": "SUN,MON,TUE,WED,THU,FRI,SAT",
+        "StartDate": "'05/03/2022",
+        "EndDate": "'05/17/2022",
+        "ActnPhrase": "Set by",
+        "ClinicianId": "3",
+        "Clinician": "'Dr. Joanne Cannon",
+        "VisualName1": "Caption 2",
+        "VisualType1": "Middle Navy",
+        "VisualFnctn1": "Clickable",
+        "ChangedOccurncArray": [
+            {
+                "Date":"05/12/2022",
+                "Change":"50 flights",
+                "By":"Modified by You"
+            },
+            {
+                "Date":"05/14/2022",
+                "Change":"50 flights",
+                "By":"Modified by Dr. Joanne Cannon"
+            },
+            {
+                "Date":"05/16/2022",
+                "Change":"50 flights",
+                "By":"Modified by You"
+            }
+        ],
+        "VisualName2": "Dropdown Menu",
+        "VisualType2": "Off-White"
+    }
+]

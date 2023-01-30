@@ -1,0 +1,38 @@
+[
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "MeasureCtgyName": "Activity",
+        "MeasureCtgySortOrdr": "1.0",
+        "VisualName1": "Chip",
+        "VisualType1": "Enabled"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "MeasureCtgyName": "Nutrition",
+        "MeasureCtgySortOrdr": "2.0",
+        "VisualName1": "Chip",
+        "VisualType1": "Enabled"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "MeasureCtgyName": "Sleep",
+        "MeasureCtgySortOrdr": "3.0",
+        "VisualName1": "Chip",
+        "VisualType1": "Disabled"
+    },
+    {
+        "PrcsParmtrName": null,
+        "PrcsParmtrValueOne": null,
+        "PrcsParmtrValueTwo": null,
+        "MeasureCtgyName": "Physiologic",
+        "MeasureCtgySortOrdr": "4.0",
+        "VisualName1": "Chip",
+        "VisualType1": "Enabled"
+    }
+]
